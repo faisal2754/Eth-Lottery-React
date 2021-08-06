@@ -1,0 +1,3 @@
+[submodule "Lottery"]
+	path = Lottery
+	url = https://github.com/faisal2754/Eth-Lottery

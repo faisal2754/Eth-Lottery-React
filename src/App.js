@@ -1,9 +1,7 @@
-import './app.css'
+import { Button, TextField } from '@material-ui/core'
 import React, { Component } from 'react'
-import { Box, Button, Container, TextField } from '@material-ui/core'
-
+import './app.css'
 import lottery from './lottery'
-
 import web3 from './web3'
 
 class App extends Component {
